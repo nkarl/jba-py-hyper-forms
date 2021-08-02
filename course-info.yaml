@@ -1,0 +1,10 @@
+type: hyperskill
+title: Hyper Forms
+language: English
+summary: Let’s create our own Google Forms! In this project, you’ll create a webpage
+  with forms that can be filled by your visitors. Add as many forms as you like and
+  update them on the fly.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/172</a>
+programming_language: Python
+content:
+- Hyper Forms
+mode: Study
