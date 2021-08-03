@@ -308,13 +308,21 @@ files:
 
     STATIC_URL = '/static/'
   learner_created: false
+<<<<<<< HEAD
 - name: forms/__init__.py
+=======
+- name: hyperforms/__init__.py
+>>>>>>> 04d05fe29a7ceade43db35e82f2a57c50d19a272
   visible: true
   learner_created: false
 - name: forms/migrations/__init__.py
   visible: true
   learner_created: false
+<<<<<<< HEAD
 - name: hyperforms/__init__.py
+=======
+- name: forms/__init__.py
+>>>>>>> 04d05fe29a7ceade43db35e82f2a57c50d19a272
   visible: true
   learner_created: false
 feedback_link: https://hyperskill.org/projects/172/stages/889/implement#comment

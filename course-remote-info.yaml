@@ -3,7 +3,11 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/511444/additional_files.json
   is_template_based: false
   use_ide: true
+<<<<<<< HEAD
 update_date: Tue, 03 Aug 2021 20:58:11 UTC
+=======
+update_date: Tue, 03 Aug 2021 16:19:38 UTC
+>>>>>>> 04d05fe29a7ceade43db35e82f2a57c50d19a272
 stages:
 - id: 889
   step: 12787
